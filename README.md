@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in the XCore monorepo, in [`web`](https://github.com/XCore-mindustry/xcore/tree/main/web). Production now runs from the monorepo. Report issues and send pull requests to the monorepo.
+
 # xcore-web
 
 The XCore website: landing page, Discord sign-in, player profiles, leaderboards and match history in English, Ukrainian and Russian, styled after the plugin's in-game menu kit.
